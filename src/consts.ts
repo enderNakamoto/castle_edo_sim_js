@@ -49,5 +49,5 @@ export namespace Const {
     export const BATTERING_RAM_SPEED = 1;
 
     // base wall values
-    export const WALL_HEALTH = 100000;
+    export const WALL_HEALTH = 1000000;
 }
